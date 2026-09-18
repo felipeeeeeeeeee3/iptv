@@ -1,583 +1,585 @@
 #EXTM3U
 
-# ==========================================
-# CATEGORIA: ABERTOS E REGIONAIS
-# ==========================================
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Band
+#----------------------------------
+# CATEGORIA: CANAIS ABERTOS
+#----------------------------------
+#EXTINF:-1 tvg-id="Band.br" group-title="Canais Abertos",Band
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/band.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Band Campinas
+#EXTINF:-1 tvg-id="BandCampinas.br" group-title="Canais Abertos",Band Campinas
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/bandcampinas.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Band Curitiba
+#EXTINF:-1 tvg-id="BandCuritiba.br" group-title="Canais Abertos",Band Curitiba
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/bandcuritiba.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Band MG
+#EXTINF:-1 tvg-id="BandMG.br" group-title="Canais Abertos",Band MG
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/bandmg.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Band Pará
+#EXTINF:-1 tvg-id="BandPara.br" group-title="Canais Abertos",Band Pará
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/bandpara.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Band Recife / TV Tribuna
+#EXTINF:-1 tvg-id="TVTribunaRecife.br" group-title="Canais Abertos",Band Recife (TV Tribuna)
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/bandrecifetvtribuna.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Band RJ
+#EXTINF:-1 tvg-id="BandRJ.br" group-title="Canais Abertos",Band RJ
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/bandrj.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Band RN
+#EXTINF:-1 tvg-id="BandRN.br" group-title="Canais Abertos",Band RN
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/bandrn.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Band RS
+#EXTINF:-1 tvg-id="BandRS.br" group-title="Canais Abertos",Band RS
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/bandrs.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Band Sergipe
+#EXTINF:-1 tvg-id="BandSergipe.br" group-title="Canais Abertos",Band Sergipe
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/bandsergipe.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Band SP
+#EXTINF:-1 tvg-id="BandSP.br" group-title="Canais Abertos",Band SP
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/bandsp.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Canal Educação
+#EXTINF:-1 tvg-id="CanalEducacao.br" group-title="Canais Abertos",Canal Educação
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/canaleducacao.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Canal Futura
+#EXTINF:-1 tvg-id="CanalFutura.br" group-title="Canais Abertos",Canal Futura
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/canalfutura.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Canal Gov
+#EXTINF:-1 tvg-id="CanalGov.br" group-title="Canais Abertos",Canal Gov
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/canalgov.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Canção Nova
+#EXTINF:-1 tvg-id="CancaoNova.br" group-title="Canais Abertos",Canção Nova
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/cancaonova.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",CNT
+#EXTINF:-1 tvg-id="CNT.br" group-title="Canais Abertos",CNT
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/cnt.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Cultura Fast
+#EXTINF:-1 tvg-id="CulturaFast.br" group-title="Canais Abertos",Cultura Fast
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/culturafast.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Futura
+#EXTINF:-1 tvg-id="Futura.br" group-title="Canais Abertos",Futura
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/futura.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Globo
+#EXTINF:-1 tvg-id="Globo.br" group-title="Canais Abertos",Globo
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/globo.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Globo AM
+#EXTINF:-1 tvg-id="GloboAM.br" group-title="Canais Abertos",Globo AM
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/globoam.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Globo CE
+#EXTINF:-1 tvg-id="GloboCE.br" group-title="Canais Abertos",Globo CE
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/globoce.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Globo ES
+#EXTINF:-1 tvg-id="GloboES.br" group-title="Canais Abertos",Globo ES
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/globoes.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Globo GO
+#EXTINF:-1 tvg-id="GloboGO.br" group-title="Canais Abertos",Globo GO
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/globogo.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Globo PB
+#EXTINF:-1 tvg-id="GloboPB.br" group-title="Canais Abertos",Globo PB
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/globopb.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Globo PE
+#EXTINF:-1 tvg-id="GloboPE.br" group-title="Canais Abertos",Globo PE
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/globope.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Globo RJ
+#EXTINF:-1 tvg-id="GloboRJ.br" group-title="Canais Abertos",Globo RJ
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/globorj.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Globo RS
+#EXTINF:-1 tvg-id="GloboRS.br" group-title="Canais Abertos",Globo RS
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/globors.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Globo SP
+#EXTINF:-1 tvg-id="GloboSP.br" group-title="Canais Abertos",Globo SP
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/globosp.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",PlayTV
+#EXTINF:-1 tvg-id="PlayTV.br" group-title="Canais Abertos",PlayTV
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/playtv.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Record
+#EXTINF:-1 tvg-id="Record.br" group-title="Canais Abertos",Record
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/record.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Record GO
+#EXTINF:-1 tvg-id="RecordGO.br" group-title="Canais Abertos",Record GO
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/recordgo.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Record MG
+#EXTINF:-1 tvg-id="RecordMG.br" group-title="Canais Abertos",Record MG
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/recordmg.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Record RJ
+#EXTINF:-1 tvg-id="RecordRJ.br" group-title="Canais Abertos",Record RJ
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/recordrj.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Record SP
+#EXTINF:-1 tvg-id="RecordSP.br" group-title="Canais Abertos",Record SP
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/recordsp.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Rede Brasil
+#EXTINF:-1 tvg-id="RedeBrasil.br" group-title="Canais Abertos",Rede Brasil
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/redebrasil.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Rede Família
+#EXTINF:-1 tvg-id="RedeFamilia.br" group-title="Canais Abertos",Rede Família
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/redefamilia.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",RedeTV!
+#EXTINF:-1 tvg-id="RedeTV.br" group-title="Canais Abertos",RedeTV!
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/redetv.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Rede Vida
+#EXTINF:-1 tvg-id="RedeVida.br" group-title="Canais Abertos",Rede Vida
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/redevida.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",SBT
+#EXTINF:-1 tvg-id="RedeTV2.br" group-title="Canais Abertos",RedeTV! (Alt)
+https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/redetv.txt
+#EXTINF:-1 tvg-id="SBT.br" group-title="Canais Abertos",SBT
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sbt.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",SBT Alterosa
+#EXTINF:-1 tvg-id="SBTAlterosa.br" group-title="Canais Abertos",SBT Alterosa
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sbtalterosa.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",SBT BA
+#EXTINF:-1 tvg-id="SBTBA.br" group-title="Canais Abertos",SBT BA
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sbtba.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",SBT GO
+#EXTINF:-1 tvg-id="SBTGO.br" group-title="Canais Abertos",SBT GO
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sbtgo.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",SBT Londrina
+#EXTINF:-1 tvg-id="SBTLondrina.br" group-title="Canais Abertos",SBT Londrina
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sbtlondrina.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",SBT MA
+#EXTINF:-1 tvg-id="SBTMA.br" group-title="Canais Abertos",SBT MA
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sbtma.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",SBT Maringá
+#EXTINF:-1 tvg-id="SBTMaringa.br" group-title="Canais Abertos",SBT Maringá
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sbtmaringa.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",SBT MG
+#EXTINF:-1 tvg-id="SBTMG.br" group-title="Canais Abertos",SBT MG
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sbtmg.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",SBT MT
+#EXTINF:-1 tvg-id="SBTMT.br" group-title="Canais Abertos",SBT MT
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sbtmt.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",SBT PI
+#EXTINF:-1 tvg-id="SBTPI.br" group-title="Canais Abertos",SBT PI
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sbtpi.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",SBT PR
+#EXTINF:-1 tvg-id="SBTPR.br" group-title="Canais Abertos",SBT PR
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sbtpr.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",SBT RJ
+#EXTINF:-1 tvg-id="SBTRJ.br" group-title="Canais Abertos",SBT RJ
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sbtrj.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",SBT SP
+#EXTINF:-1 tvg-id="SBTSP.br" group-title="Canais Abertos",SBT SP
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sbtsp.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",SBT TV Jornal PE
+#EXTINF:-1 tvg-id="TVJornalPE.br" group-title="Canais Abertos",SBT TV Jornal PE
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sbttvjornalpe.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",Sesc TV
+#EXTINF:-1 tvg-id="SescTV.br" group-title="Canais Abertos",Sesc TV
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sesctv.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",TV Aparecida
+#EXTINF:-1 tvg-id="TVAparecida.br" group-title="Canais Abertos",TV Aparecida
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tvaparecida.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",TV Brasil
+#EXTINF:-1 tvg-id="TVBrasil.br" group-title="Canais Abertos",TV Brasil
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tvbrasil.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",TV Câmara
+#EXTINF:-1 tvg-id="TVCamara.br" group-title="Canais Abertos",TV Câmara
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tvcamara.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",TV Cultura
+#EXTINF:-1 tvg-id="TVCultura.br" group-title="Canais Abertos",TV Cultura
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tvcultura.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",TV Gazeta
+#EXTINF:-1 tvg-id="TVGazeta.br" group-title="Canais Abertos",TV Gazeta
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tvgazeta.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",TV Goiânia
+#EXTINF:-1 tvg-id="TVGoiania.br" group-title="Canais Abertos",TV Goiânia
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tvgoiania.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",TV Justiça
+#EXTINF:-1 tvg-id="TVJustica.br" group-title="Canais Abertos",TV Justiça
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tvjustica.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",TV Senado
+#EXTINF:-1 tvg-id="TVSenado.br" group-title="Canais Abertos",TV Senado
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tvsenado.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Abertos e Regionais",TVE Bahia
+#EXTINF:-1 tvg-id="TVEBahia.br" group-title="Canais Abertos",TVE Bahia
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tvebahia.txt
 
-# ==========================================
+#----------------------------------
 # CATEGORIA: FILMES E SÉRIES
-# ==========================================
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",AMC
+#----------------------------------
+#EXTINF:-1 tvg-id="AMC.us" group-title="Filmes e Séries",AMC
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/amc.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",AMC Series
+#EXTINF:-1 tvg-id="AMCSeries.us" group-title="Filmes e Séries",AMC Series
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/amcseries.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",AXN
+#EXTINF:-1 tvg-id="AXN.br" group-title="Filmes e Séries",AXN
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/axn.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Canal Brasil
+#EXTINF:-1 tvg-id="CanalBrasil.br" group-title="Filmes e Séries",Canal Brasil
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/canalbrasil.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Cine Sky 01
+#EXTINF:-1 tvg-id="CineSky1.br" group-title="Filmes e Séries",Cine Sky 1
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/cinesky01.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Cine Sky 02
+#EXTINF:-1 tvg-id="CineSky2.br" group-title="Filmes e Séries",Cine Sky 2
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/cinesky02.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Cine Sky 03
+#EXTINF:-1 tvg-id="CineSky3.br" group-title="Filmes e Séries",Cine Sky 3
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/cinesky03.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Cine Sky 04
+#EXTINF:-1 tvg-id="CineSky4.br" group-title="Filmes e Séries",Cine Sky 4
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/cinesky04.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Cine Sky 05
+#EXTINF:-1 tvg-id="CineSky5.br" group-title="Filmes e Séries",Cine Sky 5
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/cinesky05.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Cinemax
+#EXTINF:-1 tvg-id="Cinemax.br" group-title="Filmes e Séries",Cinemax
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/cinemax.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Filmelier TV
+#EXTINF:-1 tvg-id="FilmelierTV.br" group-title="Filmes e Séries",Filmelier TV
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/filmeliertv.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Filmes Suspense
+#EXTINF:-1 tvg-id="FilmesSuspense.br" group-title="Filmes e Séries",Filmes Suspense
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/filmessuspense.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Globoplay Novelas
+#EXTINF:-1 tvg-id="GloboplayNovelas.br" group-title="Filmes e Séries",Globoplay Novelas
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/globoplaynovelas.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",HBO
+#EXTINF:-1 tvg-id="HBO.br" group-title="Filmes e Séries",HBO
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/hbo.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",HBO 2
-https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/hbo2.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",HBO Family
+#EXTINF:-1 tvg-id="HBOFamily.br" group-title="Filmes e Séries",HBO Family
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/hbofamily.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",HBO Mundi
+#EXTINF:-1 tvg-id="HBOMundi.br" group-title="Filmes e Séries",HBO Mundi
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/hbomundi.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",HBO Plus
+#EXTINF:-1 tvg-id="HBOPlus.br" group-title="Filmes e Séries",HBO Plus
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/hboplus.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",HBO Pop
+#EXTINF:-1 tvg-id="HBOPop.br" group-title="Filmes e Séries",HBO Pop
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/hbopop.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",HBO Signature
+#EXTINF:-1 tvg-id="HBOSignature.br" group-title="Filmes e Séries",HBO Signature
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/hbosignature.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",HBO Xtreme
+#EXTINF:-1 tvg-id="HBOXtreme.br" group-title="Filmes e Séries",HBO Xtreme
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/hboxtreme.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Lifetime
+#EXTINF:-1 tvg-id="HBO2.br" group-title="Filmes e Séries",HBO 2
+https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/hbo2.txt
+#EXTINF:-1 tvg-id="Lifetime.br" group-title="Filmes e Séries",Lifetime
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/lifetime.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Max 01
+#EXTINF:-1 tvg-id="Max1.br" group-title="Filmes e Séries",Max 1
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/max01.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Max 02
+#EXTINF:-1 tvg-id="Max2.br" group-title="Filmes e Séries",Max 2
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/max02.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Megapix
+#EXTINF:-1 tvg-id="Megapix.br" group-title="Filmes e Séries",Megapix
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/megapix.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",MyTime Movie Network
+#EXTINF:-1 tvg-id="MyTimeMovieNetwork.us" group-title="Filmes e Séries",MyTime Movie Network
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/mytimemovienetwork.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Runtime
+#EXTINF:-1 tvg-id="Runtime.br" group-title="Filmes e Séries",Runtime
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/runtime.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",SBT Novelas
+#EXTINF:-1 tvg-id="SBTNovelas.br" group-title="Filmes e Séries",SBT Novelas
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sbtnovelas.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Sony Channel
+#EXTINF:-1 tvg-id="SonyChannel.br" group-title="Filmes e Séries",Sony Channel
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sonychannel.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Sony Movies
+#EXTINF:-1 tvg-id="SonyMovies.br" group-title="Filmes e Séries",Sony Movies
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sonymovies.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Sony One Emoções
+#EXTINF:-1 tvg-id="SonyOneEmocoes.br" group-title="Filmes e Séries",Sony One Emoções
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sonyoneemocoes.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Space
+#EXTINF:-1 tvg-id="Space.br" group-title="Filmes e Séries",Space
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/space.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Studio Universal
+#EXTINF:-1 tvg-id="StudioUniversal.br" group-title="Filmes e Séries",Studio Universal
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/studiouniversal.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",TCM
+#EXTINF:-1 tvg-id="TCM.br" group-title="Filmes e Séries",TCM
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tcm.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Telecine Action
+#EXTINF:-1 tvg-id="TelecineAction.br" group-title="Filmes e Séries",Telecine Action
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/telecineaction.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Telecine Cult
+#EXTINF:-1 tvg-id="TelecineCult.br" group-title="Filmes e Séries",Telecine Cult
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/telecinecult.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Telecine Fun
+#EXTINF:-1 tvg-id="TelecineFun.br" group-title="Filmes e Séries",Telecine Fun
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/telecinefun.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Telecine Pipoca
+#EXTINF:-1 tvg-id="TelecinePipoca.br" group-title="Filmes e Séries",Telecine Pipoca
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/telecinepipoca.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Telecine Premium
+#EXTINF:-1 tvg-id="TelecinePremium.br" group-title="Filmes e Séries",Telecine Premium
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/telecinepremium.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Telecine Touch
+#EXTINF:-1 tvg-id="TelecineTouch.br" group-title="Filmes e Séries",Telecine Touch
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/telecinetouch.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",TNT
+#EXTINF:-1 tvg-id="TNT.br" group-title="Filmes e Séries",TNT
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tnt.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",TNT Novelas
+#EXTINF:-1 tvg-id="TNTNovelas.br" group-title="Filmes e Séries",TNT Novelas
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tntnovelas.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",TNT Series
+#EXTINF:-1 tvg-id="TNTSeries.br" group-title="Filmes e Séries",TNT Series
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tntseries.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Universal Premiere
+#EXTINF:-1 tvg-id="UniversalPremiere.br" group-title="Filmes e Séries",Universal Premiere
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/universalpremiere.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Universal Reality
+#EXTINF:-1 tvg-id="UniversalReality.br" group-title="Filmes e Séries",Universal Reality
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/universalreality.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Universal TV
+#EXTINF:-1 tvg-id="UniversalTV.br" group-title="Filmes e Séries",Universal TV
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/universaltv.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",USA Network
+#EXTINF:-1 tvg-id="USANetwork.br" group-title="Filmes e Séries",USA Network
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/usanetwork.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes e Séries",Warner
+#EXTINF:-1 tvg-id="WarnerChannel.br" group-title="Filmes e Séries",Warner Channel
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/warner.txt
 
-# ==========================================
+#----------------------------------
 # CATEGORIA: ESPORTES
-# ==========================================
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Adrenalina Pura TV
+#----------------------------------
+#EXTINF:-1 tvg-id="AdrenalinaPuraTV.br" group-title="Esportes",Adrenalina Pura TV
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/adrenalinapuratv.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Amazon Prime Video 01
+#EXTINF:-1 tvg-id="AmazonPrimeVideo1.br" group-title="Esportes",Amazon Prime Video 1
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/amazonprimevideo01.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Amazon Prime Video 02
+#EXTINF:-1 tvg-id="AmazonPrimeVideo2.br" group-title="Esportes",Amazon Prime Video 2
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/amazonprimevideo02.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Amazon Prime Video 03
+#EXTINF:-1 tvg-id="AmazonPrimeVideo3.br" group-title="Esportes",Amazon Prime Video 3
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/amazonprimevideo03.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Bandsports HD
+#EXTINF:-1 tvg-id="Bandsports.br" group-title="Esportes",Bandsports
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/bandsportshd.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Canal Goat Jogo 1
+#EXTINF:-1 tvg-id="CanalGoat1.br" group-title="Esportes",Canal GOAT Jogo 1
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/canalgoatjogo1.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Canal Goat Jogo 2
+#EXTINF:-1 tvg-id="CanalGoat2.br" group-title="Esportes",Canal GOAT Jogo 2
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/canalgoatjogo2.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Canal Goat Jogo 3
+#EXTINF:-1 tvg-id="CanalGoat3.br" group-title="Esportes",Canal GOAT Jogo 3
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/canalgoatjogo3.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Canal Off
+#EXTINF:-1 tvg-id="CanalOff.br" group-title="Esportes",Canal Off
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/canaloff.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Cazé TV
+#EXTINF:-1 tvg-id="CazeTV.br" group-title="Esportes",CazeTV
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/cazetv.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Cazé TV 1
+#EXTINF:-1 tvg-id="CazeTV1.br" group-title="Esportes",CazeTV 1
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/cazetv1.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Cazé TV 2
+#EXTINF:-1 tvg-id="CazeTV2.br" group-title="Esportes",CazeTV 2
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/cazetv2.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Combate
+#EXTINF:-1 tvg-id="Combate.br" group-title="Esportes",Combate
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/combate.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",DAZN Jogo 1
+#EXTINF:-1 tvg-id="DAZNJogo1.br" group-title="Esportes",DAZN Jogo 1
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/daznjogo1.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",DAZN Jogo 2
+#EXTINF:-1 tvg-id="DAZNJogo2.br" group-title="Esportes",DAZN Jogo 2
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/daznjogo2.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",DAZN Jogo 3
+#EXTINF:-1 tvg-id="DAZNJogo3.br" group-title="Esportes",DAZN Jogo 3
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/daznjogo3.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",DAZN Jogo 4
+#EXTINF:-1 tvg-id="DAZNJogo4.br" group-title="Esportes",DAZN Jogo 4
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/daznjogo4.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Disney 01
+#EXTINF:-1 tvg-id="DisneyEventos1.br" group-title="Esportes",Disney Eventos 1
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/disney01.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Disney 02
+#EXTINF:-1 tvg-id="DisneyEventos2.br" group-title="Esportes",Disney Eventos 2
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/disney02.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Disney 03
+#EXTINF:-1 tvg-id="DisneyEventos3.br" group-title="Esportes",Disney Eventos 3
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/disney03.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Disney 04
+#EXTINF:-1 tvg-id="DisneyEventos4.br" group-title="Esportes",Disney Eventos 4
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/disney04.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Disney 05
+#EXTINF:-1 tvg-id="DisneyEventos5.br" group-title="Esportes",Disney Eventos 5
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/disney05.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",ESPN
+#EXTINF:-1 tvg-id="ESPN.br" group-title="Esportes",ESPN
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/espn.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",ESPN 2
+#EXTINF:-1 tvg-id="ESPN2.br" group-title="Esportes",ESPN 2
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/espn2.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",ESPN 3
+#EXTINF:-1 tvg-id="ESPN3.br" group-title="Esportes",ESPN 3
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/espn3.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",ESPN 4
+#EXTINF:-1 tvg-id="ESPN4.br" group-title="Esportes",ESPN 4
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/espn4.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",ESPN 5
+#EXTINF:-1 tvg-id="ESPN5.br" group-title="Esportes",ESPN 5
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/espn5.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",ESPN 6
+#EXTINF:-1 tvg-id="ESPN6.br" group-title="Esportes",ESPN 6
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/espn6.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",FIFA
+#EXTINF:-1 tvg-id="FIFA+.br" group-title="Esportes",FIFA+
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/fifa.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Fish TV
+#EXTINF:-1 tvg-id="FishTV.br" group-title="Esportes",FishTV
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/fishtv.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",GE TV
+#EXTINF:-1 tvg-id="GETV.br" group-title="Esportes",GETV
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/getv.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Mr Olympia 01
+#EXTINF:-1 tvg-id="MrOlympia1.us" group-title="Esportes",Mr Olympia 1
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/mrolympia01.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Mr Olympia 02
+#EXTINF:-1 tvg-id="MrOlympia2.us" group-title="Esportes",Mr Olympia 2
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/mrolympia02.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",NBA 01
-https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/nba01.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",NSports
+#EXTINF:-1 tvg-id="NSports.br" group-title="Esportes",NSports
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/nsports.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",NSports Jogo 1
+#EXTINF:-1 tvg-id="NSportsJogo1.br" group-title="Esportes",NSports Jogo 1
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/nsportsjogo1.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Paramount Jogo 1
+#EXTINF:-1 tvg-id="NBA1.us" group-title="Esportes",NBA 1
+https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/nba01.txt
+#EXTINF:-1 tvg-id="ParamountJogo1.br" group-title="Esportes",Paramount Jogo 1
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/paramountjogo1.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Paramount Jogo 2
+#EXTINF:-1 tvg-id="ParamountJogo2.br" group-title="Esportes",Paramount Jogo 2
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/paramountjogo2.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Paramount Jogo 3
+#EXTINF:-1 tvg-id="ParamountJogo3.br" group-title="Esportes",Paramount Jogo 3
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/paramountjogo3.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Paramount Jogo 6
+#EXTINF:-1 tvg-id="ParamountJogo6.br" group-title="Esportes",Paramount Jogo 6
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/paramountjogo6.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",PFL MMA
+#EXTINF:-1 tvg-id="PFLMMA.us" group-title="Esportes",PFL MMA
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/pflmma.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Premiere 2
+#EXTINF:-1 tvg-id="Premiere2.br" group-title="Esportes",Premiere 2
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/premiere2.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Premiere 3
+#EXTINF:-1 tvg-id="Premiere3.br" group-title="Esportes",Premiere 3
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/premiere3.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Premiere 4
+#EXTINF:-1 tvg-id="Premiere4.br" group-title="Esportes",Premiere 4
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/premiere4.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Premiere 5
+#EXTINF:-1 tvg-id="Premiere5.br" group-title="Esportes",Premiere 5
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/premiere5.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Premiere 6
+#EXTINF:-1 tvg-id="Premiere6.br" group-title="Esportes",Premiere 6
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/premiere6.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Premiere 7
+#EXTINF:-1 tvg-id="Premiere7.br" group-title="Esportes",Premiere 7
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/premiere7.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Premiere 8
+#EXTINF:-1 tvg-id="Premiere8.br" group-title="Esportes",Premiere 8
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/premiere8.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Premiere Clubes
+#EXTINF:-1 tvg-id="PremiereClubes.br" group-title="Esportes",Premiere Clubes
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/premiereclubes.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",PT A Bola
+#EXTINF:-1 tvg-id="PTAbola.pt" group-title="Esportes",A Bola TV (PT)
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/ptabola.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",PT Benfica TV
+#EXTINF:-1 tvg-id="PTBenficaTV.pt" group-title="Esportes",Benfica TV (PT)
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/ptbenficatv.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",PT Canal 11
+#EXTINF:-1 tvg-id="PTCanal11.pt" group-title="Esportes",Canal 11 (PT)
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/ptcanal11.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",PT Eleven 1
+#EXTINF:-1 tvg-id="PTEleven1.pt" group-title="Esportes",Eleven 1 (PT)
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/pteleven1.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",PT Eleven 2
+#EXTINF:-1 tvg-id="PTEleven2.pt" group-title="Esportes",Eleven 2 (PT)
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/pteleven2.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",PT Eleven 3
+#EXTINF:-1 tvg-id="PTEleven3.pt" group-title="Esportes",Eleven 3 (PT)
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/pteleven3.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",PT Sport TV 1
+#EXTINF:-1 tvg-id="PTSportTV1.pt" group-title="Esportes",Sport TV 1 (PT)
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/ptsporttv1.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",PT Sport TV 2
+#EXTINF:-1 tvg-id="PTSportTV2.pt" group-title="Esportes",Sport TV 2 (PT)
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/ptsporttv2.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",PT Sport TV 3
+#EXTINF:-1 tvg-id="PTSportTV3.pt" group-title="Esportes",Sport TV 3 (PT)
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/ptsporttv3.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",PT Sport TV 4
+#EXTINF:-1 tvg-id="PTSportTV4.pt" group-title="Esportes",Sport TV 4 (PT)
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/ptsporttv4.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",PT Sport TV 5
+#EXTINF:-1 tvg-id="PTSportTV5.pt" group-title="Esportes",Sport TV 5 (PT)
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/ptsporttv5.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",PT Sport TV 6
+#EXTINF:-1 tvg-id="PTSportTV6.pt" group-title="Esportes",Sport TV 6 (PT)
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/ptsporttv6.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",PT Sport TV 7
+#EXTINF:-1 tvg-id="PTSportTV7.pt" group-title="Esportes",Sport TV 7 (PT)
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/ptsporttv7.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Racer Brasil
+#EXTINF:-1 tvg-id="RacerBrasil.br" group-title="Esportes",Racer Brasil
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/racerbrasil.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Real Madrid TV
+#EXTINF:-1 tvg-id="RealMadridTV.es" group-title="Esportes",Real Madrid TV
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/realmadridtv.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Red Bull TV BR
+#EXTINF:-1 tvg-id="RedBullTV.br" group-title="Esportes",Red Bull TV
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/reddbulltvbr.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",SFT Combat
+#EXTINF:-1 tvg-id="SFTCombat.br" group-title="Esportes",SFT Combat
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sftcombat.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",SporTV
+#EXTINF:-1 tvg-id="SporTV.br" group-title="Esportes",SporTV
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sportv.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",SporTV 2
+#EXTINF:-1 tvg-id="SporTV2.br" group-title="Esportes",SporTV 2
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sportv2.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",SporTV 3
+#EXTINF:-1 tvg-id="SporTV3.br" group-title="Esportes",SporTV 3
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sportv3.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Sporty Net 01
+#EXTINF:-1 tvg-id="Sportynet0.br" group-title="Esportes",Sportynet 0
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sportynet01.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Sporty Net 1
+#EXTINF:-1 tvg-id="Sportynet1.br" group-title="Esportes",Sportynet 1
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sportynet1.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Sporty Net 2
+#EXTINF:-1 tvg-id="Sportynet2.br" group-title="Esportes",Sportynet 2
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sportynet2.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Sporty Net 3
+#EXTINF:-1 tvg-id="Sportynet3.br" group-title="Esportes",Sportynet 3
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sportynet3.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Top Barca
+#EXTINF:-1 tvg-id="TopBarca.br" group-title="Esportes",Top Barça
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/topbarca.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",UFC
+#EXTINF:-1 tvg-id="UFC.br" group-title="Esportes",UFC
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/ufc.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",UFC Fight Pass 01
+#EXTINF:-1 tvg-id="UFCFightPass1.br" group-title="Esportes",UFC Fight Pass 1
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/ufcfightpass01.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",UFC Fight Pass 03
+#EXTINF:-1 tvg-id="UFCFightPass3.br" group-title="Esportes",UFC Fight Pass 3
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/ufcfightpass03.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",Woohoo
+#EXTINF:-1 tvg-id="Woohoo.br" group-title="Esportes",Woohoo
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/woohoo.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",World Poker Tour
+#EXTINF:-1 tvg-id="WorldPokerTour.us" group-title="Esportes",World Poker Tour
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/worldpokertour.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",XSports
+#EXTINF:-1 tvg-id="XSports.br" group-title="Esportes",XSports
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/xsports.txt
 
-# ==========================================
+#----------------------------------
 # CATEGORIA: NOTÍCIAS
-# ==========================================
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notícias",BandNews
+#----------------------------------
+#EXTINF:-1 tvg-id="BandNews.br" group-title="Notícias",BandNews TV
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/bandnews.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notícias",Canal UOL
+#EXTINF:-1 tvg-id="CanalUOL.br" group-title="Notícias",Canal UOL
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/canaluol.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notícias",CBS News
+#EXTINF:-1 tvg-id="CBSNews.us" group-title="Notícias",CBS News
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/cbsnews.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notícias",CNBC
+#EXTINF:-1 tvg-id="CNBC.us" group-title="Notícias",CNBC
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/cnbc.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notícias",CNN Brasil
+#EXTINF:-1 tvg-id="CNNBrasil.br" group-title="Notícias",CNN Brasil
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/cnnbrasil.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notícias",CNN Brasil Money
+#EXTINF:-1 tvg-id="CNNBrasilMoney.br" group-title="Notícias",CNN Brasil Money
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/cnnbrasilmoney.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notícias",Euronews
+#EXTINF:-1 tvg-id="Euronews.eu" group-title="Notícias",Euronews
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/euronews.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notícias",GloboNews
+#EXTINF:-1 tvg-id="GloboNews.br" group-title="Notícias",GloboNews
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/globonews.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notícias",Jovem Pan News
+#EXTINF:-1 tvg-id="JovemPanNews.br" group-title="Notícias",Jovem Pan News
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/jovempannews.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notícias",Record News
+#EXTINF:-1 tvg-id="RecordNews.br" group-title="Notícias",Record News
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/recordnews.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notícias",SBT News
+#EXTINF:-1 tvg-id="SBTNews.br" group-title="Notícias",SBT News
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sbtnews.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Notícias",TV Video News
+#EXTINF:-1 tvg-id="TVVideoNews.br" group-title="Notícias",TV Video News
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tvvideonews.txt
 
-# ==========================================
+#----------------------------------
 # CATEGORIA: INFANTIL
-# ==========================================
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",BabyFirst
+#----------------------------------
+#EXTINF:-1 tvg-id="BabyFirst.us" group-title="Infantil",BabyFirst
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/babyfirst.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",Box Kids TV
+#EXTINF:-1 tvg-id="BoxKidsTV.br" group-title="Infantil",Box Kids TV
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/boxkidstv.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",Cartoon Network
+#EXTINF:-1 tvg-id="CartoonNetwork.br" group-title="Infantil",Cartoon Network
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/cartoonnetwork.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito.br" group-title="Infantil",Cartoonito
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/cartoonito.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",Discovery Kids
+#EXTINF:-1 tvg-id="DiscoveryKids.br" group-title="Infantil",Discovery Kids
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/discoverykids.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",Dum Dum
+#EXTINF:-1 tvg-id="DumDum.br" group-title="Infantil",Dum Dum
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/dumdum.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",Gloob
+#EXTINF:-1 tvg-id="Gloob.br" group-title="Infantil",Gloob
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/gloob.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",Gloobinho
+#EXTINF:-1 tvg-id="Gloobinho.br" group-title="Infantil",Gloobinho
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/gloobinho.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",Kids Mais
+#EXTINF:-1 tvg-id="KidsMais.br" group-title="Infantil",Kids Mais
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/kidsmais.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",Nick Jr Club
+#EXTINF:-1 tvg-id="NickJrClub.br" group-title="Infantil",Nick Jr Club
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/nickjrclub.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.br" group-title="Infantil",Nickelodeon
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/nickelodeon.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",Nickelodeon Clássico
+#EXTINF:-1 tvg-id="NickelodeonClassico.br" group-title="Infantil",Nickelodeon Clássico
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/nickelodeonclassico.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",Nickelodeon Teen
+#EXTINF:-1 tvg-id="NickelodeonTeen.br" group-title="Infantil",Nickelodeon Teen
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/nickelodeonteen.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",Nickelodeon Toons
+#EXTINF:-1 tvg-id="NickelodeonToons.br" group-title="Infantil",Nickelodeon Toons
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/nickelodeontoons.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",Nick Online
+#EXTINF:-1 tvg-id="NickOnline.br" group-title="Infantil",Nick Online
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/nickonline.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",Nicktoons Brasil
+#EXTINF:-1 tvg-id="NicktoonsBrasil.br" group-title="Infantil",Nicktoons Brasil
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/nicktoonsbrasil.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",O Reino Infantil
+#EXTINF:-1 tvg-id="OReinoInfantil.br" group-title="Infantil",O Reino Infantil
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/oreinoinfantil.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",SBT Kids
+#EXTINF:-1 tvg-id="SBTKids.br" group-title="Infantil",SBT Kids
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sbtkids.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",Tokusato
+#EXTINF:-1 tvg-id="Tokusato.br" group-title="Infantil",Tokusato
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tokusato.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",Tooncast
+#EXTINF:-1 tvg-id="Tooncast.br" group-title="Infantil",Tooncast
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tooncast.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",TV Rá Tim Bum
+#EXTINF:-1 tvg-id="TVRatimbum.br" group-title="Infantil",TV Rá Tim Bum
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tvratimbum.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",TV Zyn
+#EXTINF:-1 tvg-id="TVZyn.br" group-title="Infantil",TV Zyn
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tvzyn.txt
 
-# ==========================================
-# CATEGORIA: DOCUMENTÁRIOS E NATUREZA
-# ==========================================
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários e Natureza",A&E
+#----------------------------------
+# CATEGORIA: DOCUMENTÁRIOS
+#----------------------------------
+#EXTINF:-1 tvg-id="AE.br" group-title="Documentários",A&E
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/ae.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários e Natureza",Animal Planet
+#EXTINF:-1 tvg-id="AnimalPlanet.br" group-title="Documentários",Animal Planet
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/animalplanet.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários e Natureza",Discovery Channel
+#EXTINF:-1 tvg-id="DiscoveryChannel.br" group-title="Documentários",Discovery Channel
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/discoverychannel.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários e Natureza",Discovery Home & Health
+#EXTINF:-1 tvg-id="DiscoveryHomeHealth.br" group-title="Documentários",Discovery Home & Health
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/discoveryhomehealth.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários e Natureza",Discovery ID
+#EXTINF:-1 tvg-id="DiscoveryID.br" group-title="Documentários",Discovery ID
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/discoveryid.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários e Natureza",Discovery Science
+#EXTINF:-1 tvg-id="DiscoveryScience.br" group-title="Documentários",Discovery Science
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/discoveryscience.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários e Natureza",Discovery Theater
+#EXTINF:-1 tvg-id="DiscoveryTheater.br" group-title="Documentários",Discovery Theater
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/discoverytheater.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários e Natureza",Discovery Turbo
+#EXTINF:-1 tvg-id="DiscoveryTurbo.br" group-title="Documentários",Discovery Turbo
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/discoveryturbo.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários e Natureza",Discovery World
+#EXTINF:-1 tvg-id="DiscoveryWorld.br" group-title="Documentários",Discovery World
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/discoveryworld.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários e Natureza",History
+#EXTINF:-1 tvg-id="History.br" group-title="Documentários",History Channel
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/history.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários e Natureza",History 2
+#EXTINF:-1 tvg-id="History2.br" group-title="Documentários",History 2
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/history2.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Documentários e Natureza",Nature Time
+#EXTINF:-1 tvg-id="NatureTime.us" group-title="Documentários",Nature Time
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/naturetime.txt
 
-# ==========================================
-# CATEGORIA: VARIEDADES, MÚSICA E RELIGIOSOS
-# ==========================================
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",Adult Swim
+#----------------------------------
+# CATEGORIA: VARIEDADES E OUTROS
+#----------------------------------
+#EXTINF:-1 tvg-id="AdultSwim.br" group-title="Variedades e Outros",Adult Swim
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/adultswim.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",Agro Mais
+#EXTINF:-1 tvg-id="Agromais.br" group-title="Variedades e Outros",Agromais
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/agromais.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",Arte 1
+#EXTINF:-1 tvg-id="Arte1.br" group-title="Variedades e Outros",Arte 1
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/arte1.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",Bis
+#EXTINF:-1 tvg-id="Bis.br" group-title="Variedades e Outros",Bis
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/bis.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",Blits TV
+#EXTINF:-1 tvg-id="BlitsTV.br" group-title="Variedades e Outros",Blits TV
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/blitstv.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",Canal Agro
+#EXTINF:-1 tvg-id="CanalAgro.br" group-title="Variedades e Outros",Canal Agro
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/canialagro.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",Canal do Boi
+#EXTINF:-1 tvg-id="CanalDoBoi.br" group-title="Variedades e Outros",Canal do Boi
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/canaldoboi.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",Canal Rural
+#EXTINF:-1 tvg-id="CanalRural.br" group-title="Variedades e Outros",Canal Rural
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/canalrural.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",Chef TV
+#EXTINF:-1 tvg-id="ChefTV.br" group-title="Variedades e Outros",Chef TV
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/cheftv.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",Combrasil
+#EXTINF:-1 tvg-id="ComBrasil.br" group-title="Variedades e Outros",Com Brasil
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/combrasil.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",Comedy Central
+#EXTINF:-1 tvg-id="ComedyCentral.br" group-title="Variedades e Outros",Comedy Central
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/comedycentral.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",E!
+#EXTINF:-1 tvg-id="E!Entertainment.br" group-title="Variedades e Outros",E! Entertainment
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/e.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",FailArmy
+#EXTINF:-1 tvg-id="FailArmy.us" group-title="Variedades e Outros",FailArmy
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/failarmy.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",Food Network
+#EXTINF:-1 tvg-id="FoodNetwork.br" group-title="Variedades e Outros",Food Network
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/foodnetwork.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",GNT
+#EXTINF:-1 tvg-id="GNT.br" group-title="Variedades e Outros",GNT
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/gnt.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",HGTV
+#EXTINF:-1 tvg-id="HGTV.br" group-title="Variedades e Outros",HGTV
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/hgtv.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",Homeful
+#EXTINF:-1 tvg-id="Homeful.us" group-title="Variedades e Outros",Homeful
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/homeful.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",IMPD
+#EXTINF:-1 tvg-id="IMPD.br" group-title="Variedades e Outros",IMPD
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/impd.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",Kpop TV Play
+#EXTINF:-1 tvg-id="KPopTVPlay.kr" group-title="Variedades e Outros",K-Pop TV Play
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/kpoptvplay.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",Moviagem
+#EXTINF:-1 tvg-id="Moviagem.br" group-title="Variedades e Outros",Moviagem
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/moviagem.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",MTV
+#EXTINF:-1 tvg-id="MTV.br" group-title="Variedades e Outros",MTV
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/mtv.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",MTV Biggest Pop
+#EXTINF:-1 tvg-id="MTVBiggestPop.br" group-title="Variedades e Outros",MTV Biggest Pop
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/mtvbiggestpop.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",MTV Dating
+#EXTINF:-1 tvg-id="MTVDating.br" group-title="Variedades e Outros",MTV Dating
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/mtvdating.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",MTV Reality
+#EXTINF:-1 tvg-id="MTVReality.br" group-title="Variedades e Outros",MTV Reality
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/mtvreality.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",MTV Rocks
+#EXTINF:-1 tvg-id="MTVRocks.br" group-title="Variedades e Outros",MTV Rocks
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/mtvrocks.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",Multishow
+#EXTINF:-1 tvg-id="Multishow.br" group-title="Variedades e Outros",Multishow
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/multishow.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",Music Box Brazil
+#EXTINF:-1 tvg-id="MusicBoxBrazil.br" group-title="Variedades e Outros",Music Box Brazil
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/musicboxbrazil.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",Rede Gospel
+#EXTINF:-1 tvg-id="RedeGospel.br" group-title="Variedades e Outros",Rede Gospel
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/redegospel.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",RIT
+#EXTINF:-1 tvg-id="RIT.br" group-title="Variedades e Outros",RIT
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/rit.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",SBT Raiz
+#EXTINF:-1 tvg-id="SBTRaiz.br" group-title="Variedades e Outros",SBT Raiz
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/sbtraiz.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",Tastemade
+#EXTINF:-1 tvg-id="Tastemade.br" group-title="Variedades e Outros",Tastemade
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tastemade.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",Tastemade Casa
+#EXTINF:-1 tvg-id="TastemadeCasa.br" group-title="Variedades e Outros",Tastemade Casa
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tastemadecasa.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",Tastemade Viagem
+#EXTINF:-1 tvg-id="TastemadeViagem.br" group-title="Variedades e Outros",Tastemade Viagem
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tastemadeviagem.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",Terra Viva
+#EXTINF:-1 tvg-id="TerraViva.br" group-title="Variedades e Outros",Terra Viva
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/terraviva.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",The Pet Collective
+#EXTINF:-1 tvg-id="ThePetCollective.us" group-title="Variedades e Outros",The Pet Collective
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/thepetcollective.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",TLC
+#EXTINF:-1 tvg-id="TLC.br" group-title="Variedades e Outros",TLC
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tlc.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",Trace Brazuca
+#EXTINF:-1 tvg-id="TraceBrazuca.br" group-title="Variedades e Outros",Trace Brazuca
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tracebrazuca.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",Travel Box Brazil
+#EXTINF:-1 tvg-id="TravelBoxBrazil.br" group-title="Variedades e Outros",Travel Box Brazil
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/travelboxbrazil.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",TV Evangelizar
+#EXTINF:-1 tvg-id="TVEvangelizar.br" group-title="Variedades e Outros",TV Evangelizar
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tvevangelizar.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",TV Novo Tempo
+#EXTINF:-1 tvg-id="TVNovoTempo.br" group-title="Variedades e Outros",TV Novo Tempo
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tvnovotempo.txt
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades, Música e Religiosos",TV Pai Eterno
+#EXTINF:-1 tvg-id="TVPaiEterno.br" group-title="Variedades e Outros",TV Pai Eterno
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/tvpaieterno.txt
