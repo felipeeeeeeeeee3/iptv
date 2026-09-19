@@ -228,7 +228,7 @@ https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/universaltv.t
 #EXTINF:-1 tvg-id="USANetwork.br" group-title="Filmes e Séries",USA Network
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/usanetwork.txt
 #EXTINF:-1 tvg-id="WarnerChannel.br" group-title="Filmes e Séries",Warner Channel
-http://79.127.238.228:14647
+https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/warnerchannel.txt
 
 #----------------------------------
 # CATEGORIA: ESPORTES
