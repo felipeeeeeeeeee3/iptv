@@ -236,11 +236,11 @@ https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/warnerchannel
 #EXTINF:-1 tvg-id="AdrenalinaPuraTV.br" group-title="Esportes",Adrenalina Pura TV
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/adrenalinapuratv.txt
 #EXTINF:-1 tvg-id="AmazonPrimeVideo1.br" group-title="Esportes",Amazon Prime Video 1
-https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/amazonprimevideo01.txt
+https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/amazonprime1.txt
 #EXTINF:-1 tvg-id="AmazonPrimeVideo2.br" group-title="Esportes",Amazon Prime Video 2
-https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/amazonprimevideo02.txt
+https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/amazonprime2.txt
 #EXTINF:-1 tvg-id="AmazonPrimeVideo3.br" group-title="Esportes",Amazon Prime Video 3
-https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/amazonprimevideo03.txt
+https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/amazonprime3.txt
 #EXTINF:-1 tvg-id="Bandsports.br" group-title="Esportes",Bandsports
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/bandsportshd.txt
 #EXTINF:-1 tvg-id="CanalGoat1.br" group-title="Esportes",Canal GOAT Jogo 1
@@ -480,7 +480,7 @@ https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/animalplanet.
 #EXTINF:-1 tvg-id="DiscoveryChannel.br" group-title="Documentários",Discovery Channel
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/discoverychannel.txt
 #EXTINF:-1 tvg-id="DiscoveryHomeHealth.br" group-title="Documentários",Discovery Home & Health
-https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/discoveryhomehealth.txt
+https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/discoveryhh.txt
 #EXTINF:-1 tvg-id="DiscoveryID.br" group-title="Documentários",Discovery ID
 https://52d080a3e172c33fd6886a37e7288491.s21-cloudfront-net.lat/ss/discoveryid.txt
 #EXTINF:-1 tvg-id="DiscoveryScience.br" group-title="Documentários",Discovery Science
